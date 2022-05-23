@@ -1,6 +1,6 @@
 // Date Format Conversion
 import javax.swing.*;
-public class ReportCh02 {
+public class ReportCh02 { 
 
 	public static void main(String[] args) {
 		JFrame jFrame = new JFrame();
