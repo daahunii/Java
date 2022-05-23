@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ReportCh07 {
+public class ReportCh07 { 
 
 	private static String sen;
 	public static void main(String[] args) {
