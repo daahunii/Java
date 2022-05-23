@@ -1,5 +1,5 @@
 // Date Format Conversion
-import javax.swing.*; 
+import javax.swing.*;
 public class ReportCh02 {
 
 	public static void main(String[] args) {
