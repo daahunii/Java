@@ -57,3 +57,39 @@ public class searchWord {
 		
 	}
 }
+
+
+
+/* result.txt */
+/*
+## Word list containing String "dous" ##
+douse
+doused
+douser
+dousers
+douses
+dousing
+hazardous
+horrendous
+jeopardous
+stupendous
+tremendous
+
+## Word list containing String "ish" ##
+abolish
+abolished
+abolisher
+abolishers
+abolishes
+abolishing
+accomplish
+actorish
+.
+.
+.
+.
+.
+.
+
+*/
+
